@@ -19,11 +19,12 @@
 
 ## 仓库导航
 
+- [251 和弦音练习网页](exercises/251-practice.html)：十二个大调、四分音符或前长后短变奏、循环播放。B♭ 小号模式按记谱音显示，播放降低大二度。
 - [一年路线图](roadmap/learning-roadmap.md)
 - [每日练习计划](practice/daily-practice.md)
 - [月度目标](practice/monthly-goals.md)
 - [练习日志](practice/practice-log.md)
-- `lessons/`：六个阶段课程
+- `exercises/`：交互式练习工具
 - `songs/`：标准曲学习页
 - `resources/`：乐手与聆听清单
 
